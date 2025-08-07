@@ -21,7 +21,7 @@ export default function Founder() {
         whileInView={{ opacity: 1 }}
         transition={{ duration: 0.6, delay: 0.1 }}
       >
-        <div className="w-[250px] h-[320px] overflow-hidden rounded-2xl shadow-lg border border-purple-600 bg-white">
+        <div className="w-[250px] h-[320px] overflow-hidden rounded-2xl shadow-lg border border-purple-600 bg-black">
           <Image
             src="https://res.cloudinary.com/da086pdlp/image/upload/v1754565188/Untitled_design_6_wikfni.png"
             alt="Anubhav Pandey"
