@@ -23,7 +23,7 @@ export default function Founder() {
       >
         <div className="w-[250px] h-[320px] overflow-hidden rounded-2xl shadow-lg border border-purple-600 bg-black">
           <Image
-            src="https://res.cloudinary.com/da086pdlp/image/upload/v1754565188/Untitled_design_6_wikfni.png"
+            src="https://res.cloudinary.com/da086pdlp/image/upload/v1754566497/Untitled_design_7_buz1jt.png"
             alt="Anubhav Pandey"
             width={400}
             height={600}
