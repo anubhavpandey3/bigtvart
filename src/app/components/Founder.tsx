@@ -21,13 +21,13 @@ export default function Founder() {
         whileInView={{ opacity: 1 }}
         transition={{ duration: 0.6, delay: 0.1 }}
       >
-        <div className="w-[250px] h-[320px] overflow-hidden rounded-2xl shadow-lg border border-purple-600">
+        <div className="w-[250px] h-[320px] overflow-hidden rounded-2xl shadow-lg border border-purple-600 bg-white">
           <Image
             src="https://res.cloudinary.com/da086pdlp/image/upload/v1754565188/Untitled_design_6_wikfni.png"
             alt="Anubhav Pandey"
             width={400}
             height={600}
-            className="object-cover object-top w-full h-full scale-[1.25]"
+            className="object-contain w-full h-full"
           />
         </div>
       </motion.div>
